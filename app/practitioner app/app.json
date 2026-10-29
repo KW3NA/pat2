@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "E-Literacy Practitioner",
+    "slug": "eliteracy-practitioner",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "eliteracypractitioner",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0B5FFF"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "co.e-literacy.practitioner"
+    },
+    "android": {
+      "package": "co.e_literacy.practitioner",
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "eas": {}
+    }
+  }
+}
